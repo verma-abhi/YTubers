@@ -18,8 +18,9 @@
  7. User and Password Authentication and different Warning and Success message pop-ups features are also present.
  8. About us, Contact and Services pages are also present.
     a)Aboutus :
-    i)<img width="1440" alt="aboutyt_1" src="https://github.com/verma-abhi/YTubers/assets/96353696/8909af90-2a6c-4123-b409-c807766af1a6">
+    i)<img width="1440" alt="aboutuspage_1" src="https://github.com/verma-abhi/YTubers/assets/96353696/61eca28a-9003-487e-a1b0-019b40ca1e1b">
     ii)<img width="1440" alt="aboutuspage_2" src="https://github.com/verma-abhi/YTubers/assets/96353696/4c5f4d52-1ac9-4784-a521-9109df7a73bd">
     iii)<img width="1440" alt="aboutuspage_3" src="https://github.com/verma-abhi/YTubers/assets/96353696/4fae50d4-2c8d-4dfc-97cc-080a7dba02d1">
     b)Contactus : <img width="1440" alt="contactpage_1" src="https://github.com/verma-abhi/YTubers/assets/96353696/6a8037a9-4101-43ff-bac5-e5f91c51db5a">
- 9. admin : <img width="1440" alt="admin_1" src="https://github.com/verma-abhi/YTubers/assets/96353696/a488c929-876a-439e-85d4-95ebb630e886">
+ 10. Admin panel : <img width="1440" alt="admin_1" src="https://github.com/verma-abhi/YTubers/assets/96353696/a488c929-876a-439e-85d4-95ebb630e886">
+  
